@@ -17,6 +17,8 @@ const App = () => {
     dispatch(getPosts());
   }, [currentId, dispatch]);
 
+  console.log("URL", process.env.REACT_APP_API_URL)
+
   return (
     <Container maxWidth="lg">
       <AppBar className={classes.appBar} position="static" color="inherit">
