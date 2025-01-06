@@ -14,8 +14,9 @@ The frontend and backend applications are already built and working. You need to
 
 1. Navigate to the `client` directory.
 2. Run `yarn install` to install the dependencies.
-3. Run `yarn build` to build the application.
-4. The build files will be generated in the `client/build` directory.
+3. Rename `.env.example` to `.env`
+4. Run `yarn build` to build the application.
+5. The build files will be generated in the `client/build` directory.
 
 The frontend application runs on PORT `3000`.
 
@@ -23,7 +24,8 @@ The frontend application runs on PORT `3000`.
 
 1. Navigate to the `server` directory.
 2. Run `npm install` to install the dependencies.
-3. Run `node server.js` to start the server.
+3. Rename `.env.example` to `.env`
+4. Run `node server.js` to start the server.
 
 The backend application runs on PORT `4000`.
 
