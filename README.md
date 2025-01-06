@@ -1,4 +1,5 @@
 # Assignment Requirement
+![alt text](app.png)
 
 - This assignment requires you to containerize the backend and frontend applications in this repository and create a docker-compose script for easy deployments.
 
