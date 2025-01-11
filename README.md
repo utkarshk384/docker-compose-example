@@ -42,3 +42,8 @@ The backend application runs on PORT `4000`.
     - Frontend: PORT `80`
     - Backend: PORT `4000`
 7. You can refer any article / documentation on the internet on how to containerize the application
+
+
+# Network Diagram
+
+![alt text](image.png)
